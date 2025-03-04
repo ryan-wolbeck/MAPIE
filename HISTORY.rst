@@ -5,6 +5,13 @@ History
 0.9.x (2025-xx-xx)
 ------------------
 
+0.9.3-alpha3 (2025-03-04)
+------------------
+
+* Replace setup.py by pyproject.toml
+* Use build library
+* No specific version on wheel and twine
+
 0.9.2 (2025-15-01)
 ------------------
 
